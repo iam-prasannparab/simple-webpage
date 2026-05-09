@@ -31,6 +31,18 @@ docker run -d -p 8080:80 prasann-page:latest
 ```
 Visit `http://localhost:8080` to see the page.
 
+### Using Docker Compose
+
+For a more streamlined experience, you can use Docker Compose:
+
+```bash
+# Start the application
+docker-compose up -d --build
+
+# Stop the application
+docker-compose down
+```
+
 ---
 
 ## 🛠 Jenkins Freestyle Job Setup
