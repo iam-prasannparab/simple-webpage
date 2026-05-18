@@ -15,7 +15,7 @@ export default function App() {
         transition={{ duration: 0.8, ease: "easeOut" }}
         className="text-5xl md:text-8xl font-bold tracking-[-0.04em] leading-tight text-center"
       >
-        Prasann's page
+        Prasann's Parab page
       </motion.h1>
     </div>
   );
